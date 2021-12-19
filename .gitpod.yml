@@ -11,3 +11,11 @@ ports:
 vscode:
   extensions:
     - svelte.svelte-vscode
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+  
+# Refer to the gitpod docs on https://www.gitpod.io/docs/prebuilds
