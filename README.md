@@ -11,7 +11,7 @@ If you're seeing this, you've probably already done this step. Congrats!
 npm init svelte@next
 
 # create a new project in my-app
-npm init svelte@next my-app
+npm init svelte@next 
 ```
 
 > Note: the `@next` is temporary
